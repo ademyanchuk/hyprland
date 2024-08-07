@@ -3,7 +3,7 @@
     border-radius: 0;
     font-family: "JetBrainsMono Nerd Font";
     font-weight: bold;
-    font-size: 16px;
+    font-size: 14px;
     min-height: 0;
 }
 
@@ -48,8 +48,6 @@ tooltip {
     border-radius: 10px;
 }
 
-#custom-power_profile,
-#custom-weather,
 #window,
 #clock,
 #battery,
@@ -93,12 +91,6 @@ tooltip {
     padding-left: 5px;
 }
 
-#custom-power_profile {
-    color: #a6e3a1;
-    border-left: 0px;
-    border-right: 0px;
-}
-
 #window {
     border-radius: 10px;
     margin-left: 60px;
@@ -106,8 +98,8 @@ tooltip {
 }
 
 #clock {
-    color: #fab387;
-    border-radius: 10px 0px 0px 10px;
+    color: #89b4fa;
+    border-radius: 10px;
     margin-left: 10px;
     border-right: 0px;
 }
@@ -126,7 +118,7 @@ tooltip {
 } 
 
 #pulseaudio {
-    color: #89b4fa;
+    color: #cba6f7; 
     border-left: 0px;
     border-right: 0px;
 }
@@ -144,10 +136,4 @@ tooltip {
     border-radius: 0 10px 10px 0;
     margin-right: 10px;
     border-left: 0px;
-}
-
-#custom-weather {
-    border-radius: 0px 10px 10px 0px;
-    border-right: 0px;
-    margin-left: 0px;
 }
