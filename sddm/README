@@ -1,0 +1,5 @@
+sddm.conf -> /etc/sddm.conf.d/
+theme     -> /usr/share/sddm/themes/
+
+Default hyprland config for sddm user -> 
+/var/lib/sddm/.config/hypr/
