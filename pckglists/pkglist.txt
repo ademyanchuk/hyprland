@@ -2,6 +2,7 @@ alsa-plugins
 alsa-utils
 base
 base-devel
+bat
 blueman
 bluez
 bluez-utils

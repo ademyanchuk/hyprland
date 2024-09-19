@@ -7,4 +7,3 @@ ungoogled-chromium-bin
 wezterm-git
 wlogout
 yay
-yay-debug
